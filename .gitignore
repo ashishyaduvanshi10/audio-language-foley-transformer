@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+*.pyc
+data/raw/
+*.wav
+*.pt
+.ipynb_checkpoints/
+.venv/
