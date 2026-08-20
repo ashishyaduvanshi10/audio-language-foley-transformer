@@ -5,3 +5,4 @@ librosa
 soundfile
 encodec
 numpy
+pandas
